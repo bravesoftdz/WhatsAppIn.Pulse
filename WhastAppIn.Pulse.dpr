@@ -12,7 +12,8 @@ uses
   uGeral in 'Controller\uGeral.pas',
   uBotConversa in 'Controller\uBotConversa.pas',
   uInjectDecryptFile in 'C:\Componentes\Projeto-TInject\Source\Model\uInjectDecryptFile.pas',
-  uBase64 in 'Controller\uBase64.pas';
+  uBase64 in 'Controller\uBase64.pas',
+  ULibGeral in 'Controller\ULibGeral.pas';
 
 {$R *.res}
 

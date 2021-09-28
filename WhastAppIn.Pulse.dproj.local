@@ -11,10 +11,10 @@
     <Transaction>2021/07/21 19:27:50.000.950,=C:\Projetos\WhatsAppIn.Pulse\uPrincipal.pas</Transaction>
     <Transaction>2021/07/21 19:35:53.000.815,C:\Projetos\WhatsAppIn.Pulse\uPrincipal.pas=</Transaction>
     <Transaction>2021/07/21 19:38:55.000.932,=C:\Projetos\WhatsAppIn.Pulse\Unit1.pas</Transaction>
-    <Transaction>2021/07/21 19:39:11.000.707,C:\Projetos\WhatsAppIn.Pulse\View\frmPrincipal.dfm=C:\Projetos\WhatsAppIn.Pulse\Unit1.dfm</Transaction>
     <Transaction>2021/07/21 19:39:11.000.707,C:\Projetos\WhatsAppIn.Pulse\View\frmPrincipal.pas=C:\Projetos\WhatsAppIn.Pulse\Unit1.pas</Transaction>
-    <Transaction>2021/07/22 21:39:42.000.515,=C:\Projetos\WhatsAppIn.Pulse\Controller\uBotGestor.pas</Transaction>
+    <Transaction>2021/07/21 19:39:11.000.707,C:\Projetos\WhatsAppIn.Pulse\View\frmPrincipal.dfm=C:\Projetos\WhatsAppIn.Pulse\Unit1.dfm</Transaction>
     <Transaction>2021/07/22 21:39:42.000.443,=C:\Projetos\WhatsAppIn.Pulse\Controller\uBotConversa.pas</Transaction>
+    <Transaction>2021/07/22 21:39:42.000.515,=C:\Projetos\WhatsAppIn.Pulse\Controller\uBotGestor.pas</Transaction>
     <Transaction>2021/07/23 21:08:18.000.530,=C:\Projetos\WhatsAppIn.Pulse\View\ufrmPrincipal.pas</Transaction>
     <Transaction>2021/07/24 13:32:39.000.554,=C:\Projetos\WhatsAppIn.Pulse\Model\udtmConexao.pas</Transaction>
     <Transaction>2021/07/24 13:33:09.000.080,=C:\Projetos\WhatsAppIn.Pulse\Controller\uLogger.pas</Transaction>
@@ -29,7 +29,9 @@
     <Transaction>2021/08/18 21:31:17.000.394,=C:\Componentes\Projeto-TInject\Source\Model\uInjectDecryptFile.pas</Transaction>
     <Transaction>2021/08/20 19:09:02.000.170,=C:\Projetos\WhatsAppIn.Pulse\Unit1.pas</Transaction>
     <Transaction>2021/08/20 19:25:52.000.566,C:\Projetos\WhatsAppIn.Pulse\Unit1.pas=C:\Projetos\WhatsAppIn.Pulse\Controller\uBase64.pas</Transaction>
-    <Transaction>2021/08/23 18:26:04.307,C:\Projetos\WhatsAppIn.Pulse\Controller\uTimerJob.pas=</Transaction>
+    <Transaction>2021/08/23 18:26:04.000.307,C:\Projetos\WhatsAppIn.Pulse\Controller\uTimerJob.pas=</Transaction>
+    <Transaction>2021/09/24 20:33:44.175,=C:\Projetos\WhatsAppIn.Pulse\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 20:34:33.125,C:\Projetos\WhatsAppIn.Pulse\Controller\ULibGeral.pas=C:\Projetos\WhatsAppIn.Pulse\Unit1.pas</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="C:"/>
@@ -45,6 +47,7 @@
     <File Path="Controller\uGeral.pas"/>
     <File Path="Controller\uBotConversa.pas"/>
     <File Path="Controller\uBase64.pas"/>
+    <File Path="Controller\ULibGeral.pas"/>
     <File Path="Model"/>
     <File Path="Model\udtmConexao.pas"/>
     <File Path="Model\udtmConexao.dfm"/>

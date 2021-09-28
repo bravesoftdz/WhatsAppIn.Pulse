@@ -119,6 +119,7 @@
         <DCCReference Include="Controller\uBotConversa.pas"/>
         <DCCReference Include="C:\Componentes\Projeto-TInject\Source\Model\uInjectDecryptFile.pas"/>
         <DCCReference Include="Controller\uBase64.pas"/>
+        <DCCReference Include="Controller\ULibGeral.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
